@@ -34,19 +34,22 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_94y20xo",
-        "template_v10u2oh",
+        "service_lw4ckp7",
+        "template_0sftuzt",
         formRef.current,
-        "pX_2hasGmGcuvjXIW"
+        "tCrC6Uhk1fHisNRJ4"
       )
       .then(
-        (result) => {
-          setSuccess(true)
-        },
-        (error) => {
-          setError(true);
-        }
-      );
+      () => {
+        setSuccess(true);
+        formRef.current.reset();
+        setTimeout(() => setSuccess(false), 4000);
+      },
+      () => {
+        setError(true);
+        setTimeout(() => setError(false), 4000);
+      }
+    );
   };
 
   return (
