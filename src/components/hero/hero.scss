@@ -62,11 +62,11 @@
 
 .imageContainer {
   height: 700px;
-  width: min(57vw, 1165px);
-
+  width: 52vw;
   position: absolute;
   top: 60px;
   right: 0;
+  z-index: 1;
 
   @include mobile {
     height: 50%;
