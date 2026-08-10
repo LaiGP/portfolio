@@ -60,27 +60,28 @@
     }
   }
 
-  .imageContainer {
-    height: 700px;
-    position: absolute;
-    margin-top: 60px;
-    margin-left: 150px;
-    top: 0;
-    right: 0;
+.imageContainer {
+  height: 700px;
+  width: min(57vw, 1165px);
 
-    @include mobile {
-      height: 50%;
-      width: 100%;
-      top: unset;
-      bottom: 0;
-    }
+  position: absolute;
+  top: 60px;
+  right: 0;
 
-    img{
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-    }
+  @include mobile {
+    height: 50%;
+    width: 100%;
+    top: unset;
+    bottom: 0;
   }
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+}
 
   .slidingTextContainer {
     position: absolute;
