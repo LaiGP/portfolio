@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "subtitle": "Desarrolladora web y especialista helpdesk",
+    "buttonWorks": "Ver los últimos trabajos",
+    "buttonContact": "Contáctame",
+    "slidingText": "Escritora Creadora de contenido Influencer"
+  },
+   "parallax": {
+    "servicesTitle": "¿Qué hago?",
+    "portfolioTitle": "¿Qué he hecho?"
+  },
+  "services": {
+    "subtitle1": "Desarrolladora full-stack",
+    "subtitle2": "y programadora de aplicaciones",
+    "title1": "Programadora",
+    "title2": "y",
+    "title3": "desarrolladora",
+    "title4": "web",
+    "buttonGo": "Entrar",
+    "servei1": "PHP y SQL",
+    "servei2": "Laravel y otros Frameworks",
+    "servei3": "React y JavaScript",
+    "servei4": "Vue y Angular",
+    "servei1p": "Conocimientos y experiencia en el lenguaje servidor PHP y en bases de datos SQL, (MySQL, PostgreSQL).",
+    "servei2p": "He trabajado en varias aplicaciones con Laravel y otros frameworks como CodeIgniter.",
+    "servei3p": "Conocimientos y experiencia en el lenguaje de programación JavaScript y su librería React.",
+    "servei4p": "Experiencia en los frameworks Vue y Angular de JS desarrollando diversas webs."
+  },
+  "helpdesk": {
+    "subtitle1": "Especialista helpdesk",
+    "subtitle2": "y soporte técnico",
+    "title1": "Helpdesk",
+    "title2": "y",
+    "title3": "técnica",
+    "title4": "de soporte",
+    "buttonGo": "Entrar",
+    "servei1": "Windows y Linux",
+    "servei2": "Jira y Confluence",
+    "servei3": "Mail",
+    "servei4": "Azure y Office 365",
+    "servei1p": "Conocimientos y experiencia en los sistemas operativos Windows y Linux, así como en su administración y mantenimiento.",
+    "servei2p": "He trabajado con Jira y Confluence para la gestión de proyectos y documentación técnica.",
+    "servei3p": "Conocimientos y experiencia en servicios de correo electrónico, así como en su configuración y administración.",
+    "servei4p": "Experiencia en Azure y Office 365, así como en su administración y mantenimiento."
+  },
+    "portfolio": {
+    "title": "Trabajos recientes",
+    "seeDemo": "Ver Demo",
+    "items": {
+      "1": {
+        "title": "Pets Friends Vue App",
+        "desc": "Aplicación web desarrollada con Vue.js para la gestión de adopciones de animales de compañía. Permite a los usuarios ver a los animales disponibles y gestionar solicitudes de adopción.",
+        "url": "https://pets-friends.vercel.app/"
+      },
+      "2": {
+        "title": "The vegan fork Angular App",
+        "desc": "Aplicación web desarrollada con Angular para la gestión de un restaurante vegano ficticio'. También permite a los usuarios buscar y crear sus propias recetas.",
+        "url": "https://vegan-fork-angular.vercel.app/"
+      },
+      "3": {
+        "title": "Meggy Williams Laravel App",
+        "desc": "Página de la autora desarrollada con Laravel. Permite a los usuarios ver sus libros, consultar sus biografías y contactar con la autora. Actualmente en fase de prueba.",
+        "url": ""
+      },
+      "4": {
+        "title": "Api Cinema",
+        "desc": "API para la gestión de películas y programación de cine.",
+        "url": "https://tmdb-explorer-roan.vercel.app/"
+      },
+      "5": {
+        "title": "React Portfolio",
+        "desc": "Portfolio web desarrollado con React para la presentación de proyectos y habilidades.",
+        "url": ""
+      }
+    }
+  },
+  "contact": {
+    "title": "¿Trabajamos juntos?",
+    "mail": "Correo electrónico",
+    "adress": "Dirección",
+    "phone": "Teléfono"
+  }
+}

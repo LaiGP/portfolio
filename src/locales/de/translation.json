@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "subtitle": "Webentwickler und Helpdesk-Spezialist",
+    "buttonWorks": "Aktuelle Arbeiten ansehen",
+    "buttonContact": "Kontaktieren Sie mich",
+    "slidingText": "Autor, Content Creator, Influencer"
+  },
+   "parallax": {
+    "servicesTitle": "Was mache ich?",
+    "portfolioTitle": "Was habe ich gemacht?"
+  },
+  "services": {
+    "subtitle1": "Full-Stack-Entwicklerin",
+    "subtitle2": "und Anwendungsentwicklerin",
+    "title1": "Programmiererin",
+    "title2": "und",
+    "title3": "Webentwicklerin",
+    "title4": "web",
+    "buttonGo": "Gehen",
+    "servei1": "PHP und SQL",
+    "servei2": "Laravel und Frameworks",
+    "servei3": "React und JavaScript",
+    "servei4": "Vue und Angular",
+    "servei1p": "Kenntnisse in und Erfahrung mit der serverseitigen Sprache PHP sowie SQL-Datenbanken (MySQL, PostgreSQL).",
+    "servei2p": "Ich habe an verschiedenen Anwendungen gearbeitet, bei denen Laravel und andere Frameworks wie CodeIgniter zum Einsatz kamen.",
+    "servei3p": "Kenntnisse in und Erfahrung mit der Programmiersprache JavaScript und der React-Bibliothek.",
+    "servei4p": "Erfahrung mit den Frameworks Vue und Angular von JS entwickelte verschiedene Webseiten."
+  },
+  "helpdesk": {
+    "subtitle1": "Helpdesk-Spezialist",
+    "subtitle2": "und technischer Support",
+    "title1": "Helpdesk",
+    "title2": "und",
+    "title3": "technischer",
+    "title4": "Support",
+    "buttonGo": "Gehen",
+    "servei1": "Windows und Linux",
+    "servei2": "Jira und Confluence",
+    "servei3": "Mail",
+    "servei4": "Azure und Office 365",
+    "servei1p": "Kenntnisse und Erfahrung in den Betriebssystemen Windows und Linux sowie in deren Administration und Wartung.",
+    "servei2p": "Ich habe mit Jira und Confluence gearbeitet, um Projekte und technische Dokumentation zu verwalten.",
+    "servei3p": "Kenntnisse und Erfahrung in E-Mail-Diensten sowie in deren Konfiguration und Administration.",
+    "servei4p": "Erfahrung in Azure und Office 365 sowie in deren Administration und Wartung."
+  },
+    "portfolio": {
+    "title": "Aktuelle Arbeiten",
+    "seeDemo": "Demo ansehen",
+    "items": {
+      "1": {
+        "title": "Pets Friends Vue App",
+        "desc": "Mit Vue.js entwickelte Webanwendung zur Verwaltung von Tiervermittlungen. Sie ermöglicht es Nutzern, verfügbare Tiere anzusehen und Adoptionsanfragen zu verwalten.",
+        "url": "https://pets-friends.vercel.app/"
+      },
+      "2": {
+        "title": "The vegan fork Angular App",
+        "desc": "Mit Angular entwickelte Webanwendung zur Verwaltung eines fiktiven veganen Restaurants. Zudem ermöglicht sie es Nutzern, nach Rezepten zu suchen und eigene Rezepte zu erstellen.",
+        "url": "https://vegan-fork-angular.vercel.app/"
+      },
+      "3": {
+        "title": "Meggy Williams Laravel App",
+        "desc": "Mit Laravel entwickelte Autoren-Website. Sie ermöglicht es Nutzern, die Bücher der Autorin anzusehen, ihre Biografie zu lesen und ihren Blog zu besuchen. Derzeit in der Testphase.",
+        "url": ""
+      },
+      "4": {
+        "title": "Api Cinema",
+        "desc": "API für die Verwaltung von Filmen und Kino-Programmierung.",
+        "url": "https://tmdb-explorer-roan.vercel.app/"
+      },
+      "5": {
+        "title": "React Portfolio",
+        "desc": "Portfoli web entwickelt mit React für die Präsentation von Projekten und Fähigkeiten.",
+        "url": ""
+      }
+    }
+  },
+  "contact": {
+    "title": "Wollen wir zusammenarbeiten?",
+    "mail": "E-Mail",
+    "adress": "Adresse",
+    "phone": "Telefon"
+  }
+}

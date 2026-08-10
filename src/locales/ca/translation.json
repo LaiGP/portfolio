@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "subtitle": "Desenvolupadora web i especialista helpdesk",
+    "buttonWorks": "Veure els últims treballs",
+    "buttonContact": "Contacta'm",
+    "slidingText": "Desenvolupadora Web | Especialista Helpdesk | Programadora Full-Stack"
+  },
+   "parallax": {
+    "servicesTitle": "Què faig?",
+    "portfolioTitle": "Què he fet?"
+  },
+  "services": {
+    "subtitle1": "Desenvolupadora full-stack",
+    "subtitle2": "i programadora d'aplicacions",
+    "title1": "Programadora",
+    "title2": "i",
+    "title3": "desenvolupadora",
+    "title4": "web",
+    "buttonGo": "Entrar",
+    "servei1": "PHP i SQL",
+    "servei2": "Laravel i altres Frameworks",
+    "servei3": "React i JavaScript",
+    "servei4": "Vue i Angular",
+    "servei1p": "Coneixements i experiència en el llenguatge servidor PHP i en bases de dades SQL, (MySQL, PostgreSQL).",
+    "servei2p": "He treballat en diverses aplicacions amb Laravel i altres frameworks com ara CodeIgniter.",
+    "servei3p": "Coneixements i experiència en el llenguatge de programació JavaScript i la seva llibreria React.",
+    "servei4p": "Experiència en els frameworks Vue i Angular de JS desenvolupant diverses webs."
+  },
+  "helpdesk": {
+    "subtitle1": "Especialista helpdesk",
+    "subtitle2": "i suport tècnic",
+    "title1": "Helpdesk",
+    "title2": "i",
+    "title3": "tècnic",
+    "title4": "de suport",
+    "buttonGo": "Entrar",
+    "servei1": "Windows i Linux",
+    "servei2": "Jira i Confluence",
+    "servei3": "Mail",
+    "servei4": "Azure i Office 365",
+    "servei1p": "Coneixements i experiència en els sistemes operatius Windows i Linux, així com en la seva administració i manteniment.",
+    "servei2p": "He treballat amb Jira i Confluence per a la gestió de projectes i documentació tècnica.",
+    "servei3p": "Coneixements i experiència en serveis de correu electrònic, així com en la seva configuració i administració.",
+    "servei4p": "Experiència en Azure i Office 365, així com en la seva administració i manteniment."
+  },
+    "portfolio": {
+    "title": "Treballs recents",
+    "seeDemo": "Veure Demo",
+    "items": {
+      "1": {
+        "title": "Pets Friends Vue App",
+        "desc": "Aplicació web desenvolupada amb Vue.js per a la gestió d'adopcions d'animals de companyia. Permet als usuaris veure els animals disponibles i gestionar sol·licituds d'adopció.",
+        "url": "https://pets-friends.vercel.app/"
+      },
+      "2": {
+        "title": "The vegan fork Angular App",
+        "desc": "Aplicació web desenvolupada amb Angular per a la gestió d'un restaurant vegà fictici'. També permet als usuaris buscar i crear les seves pròpies receptes.",
+        "url": "https://vegan-fork-angular.vercel.app/"
+      },
+      "3": {
+        "title": "Meggy Williams Laravel App",
+        "desc": "Pàgina d'escriptora desenvolupada amb Laravel. Permet als usuaris veure els seus llibres, consultar la seva biografia i veure el bloc. En procés de testejat.",
+        "url": ""
+      },
+      "4": {
+        "title": "Api Cinema",
+        "desc": "API per a la gestió de pel·lícules i programació de cinema.",
+        "url": "https://tmdb-explorer-roan.vercel.app/"
+      },
+      "5": {
+        "title": "React Portfolio",
+        "desc": "Portfoli web desenvolupat amb React per a la presentació de projectes i habilitats.",
+        "url": ""
+      }
+    }
+  },
+  "contact": {
+    "title": "Treballem junts?",
+    "mail": "Correu electrònic",
+    "adress": "Adreça",
+    "phone": "Telèfon"
+  }
+}
